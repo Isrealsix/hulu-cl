@@ -1,5 +1,5 @@
+// https://hulu-cl-4mi2ssr5t-hulu-cl.vercel.app/
 import Head from 'next/head';
-import Image from 'next/image';
 import Header from '../components/Header';
 import Nav from '../components/Nav';
 import Results from '../components/Results';
