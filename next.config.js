@@ -1,7 +1,7 @@
 module.exports = {
 	reactStrictMode: true,
 	images: {
-		domains: ['encrypted-tbn0.gstatic.com', 'image.tmdb.org'],
+		domains: ['press.hulu.com', 'image.tmdb.org'],
 	},
 };
 
